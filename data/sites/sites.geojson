@@ -1,0 +1,328 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.893416666666667,
+          49.72563333333333
+        ]
+      },
+      "properties": {
+        "id": 4,
+        "name": "Basse du Fliart",
+        "description": "",
+        "average_depth": null,
+        "average_temperature": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.884216666666667,
+          49.72201666666667
+        ]
+      },
+      "properties": {
+        "id": 5,
+        "name": "La Francaise",
+        "description": "",
+        "average_depth": null,
+        "average_temperature": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.882666666666667,
+          49.72065
+        ]
+      },
+      "properties": {
+        "id": 6,
+        "name": "La parmentière",
+        "description": "",
+        "average_depth": null,
+        "average_temperature": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.880466666666667,
+          49.7217
+        ]
+      },
+      "properties": {
+        "id": 7,
+        "name": "Erte",
+        "description": "",
+        "average_depth": null,
+        "average_temperature": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.88325,
+          49.72433333333333
+        ]
+      },
+      "properties": {
+        "id": 8,
+        "name": "La Galine",
+        "description": "",
+        "average_depth": null,
+        "average_temperature": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.852633333333333,
+          49.72673333333334
+        ]
+      },
+      "properties": {
+        "id": 9,
+        "name": "La basse Brefort",
+        "description": "",
+        "average_depth": null,
+        "average_temperature": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.77035,
+          49.70276666666667
+        ]
+      },
+      "properties": {
+        "id": 10,
+        "name": "Le Mermistin",
+        "description": "",
+        "average_depth": null,
+        "average_temperature": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.839583333333333,
+          49.7192
+        ]
+      },
+      "properties": {
+        "id": 11,
+        "name": "La Coucourée",
+        "description": "",
+        "average_depth": null,
+        "average_temperature": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.834533333333333,
+          49.7154
+        ]
+      },
+      "properties": {
+        "id": 12,
+        "name": "La basse de Moitié",
+        "description": "",
+        "average_depth": null,
+        "average_temperature": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.830066666666667,
+          49.71298333333333
+        ]
+      },
+      "properties": {
+        "id": 13,
+        "name": "Les Tataquets",
+        "description": "",
+        "average_depth": null,
+        "average_temperature": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.824633333333333,
+          49.69795
+        ]
+      },
+      "properties": {
+        "id": 14,
+        "name": "Les Ilets",
+        "description": "",
+        "average_depth": null,
+        "average_temperature": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.81665,
+          49.69856666666666
+        ]
+      },
+      "properties": {
+        "id": 15,
+        "name": "La Guibotière",
+        "description": "",
+        "average_depth": null,
+        "average_temperature": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.910661,
+          49.724082
+        ]
+      },
+      "properties": {
+        "id": 16,
+        "name": "Havre de Bombec : pointe de la Loge (roche infralittorale)",
+        "description": "",
+        "average_depth": null,
+        "average_temperature": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.908336,
+          49.722937
+        ]
+      },
+      "properties": {
+        "id": 17,
+        "name": "Havre de Bombec : pointe Nez Cabot (roche infralittorale)",
+        "description": "",
+        "average_depth": null,
+        "average_temperature": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.909645,
+          49.723651
+        ]
+      },
+      "properties": {
+        "id": 18,
+        "name": "Havre de Bombec : sable infralittoral",
+        "description": "",
+        "average_depth": null,
+        "average_temperature": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.912013,
+          49.722889
+        ]
+      },
+      "properties": {
+        "id": 19,
+        "name": "Havre de Bombec : pointe de la Loge (roche intertidale)",
+        "description": "",
+        "average_depth": null,
+        "average_temperature": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.908894,
+          49.721744
+        ]
+      },
+      "properties": {
+        "id": 20,
+        "name": "Havre de Bombec : pointe Nez Cabot (roche intertidale)",
+        "description": "",
+        "average_depth": null,
+        "average_temperature": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.834972,
+          49.706194
+        ]
+      },
+      "properties": {
+        "id": 21,
+        "name": "Port du Hâble",
+        "description": "",
+        "average_depth": null,
+        "average_temperature": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.834972,
+          49.708889
+        ]
+      },
+      "properties": {
+        "id": 22,
+        "name": "Havre de Barfouis",
+        "description": "",
+        "average_depth": null,
+        "average_temperature": null
+      }
+    }
+  ]
+}
