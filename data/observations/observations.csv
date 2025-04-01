@@ -1,4 +1,4 @@
-ID,Site ID,Nom scientifique,Nom commun,Latitude,Longitude,Date d'observation,Heure d'observation,iNaturalist ID,URL,Stade de développement,Comportement,Qualité des données
+ID,SiteID,NomScientifique,NomCommun,Latitude,Longitude,DateObservation,HeureObservation,iNaturalistID,URL,StadeDeveloppement,Comportement,QualiteDonnees
 1,18,Tritia reticulata,Netted Dogwhelk,49.723651,-1.909645,2025-02-27,15:47:14,265234306,https://www.inaturalist.org/observations/265234306,,,research
 2,21,Parablennius gattorugine,Tompot Blenny,49.7068102626,-1.8357900158,2025-01-21,18:10:13,265233997,https://www.inaturalist.org/observations/265233997,,,research
 45,18,Phyllodoce maculata,,49.723651,-1.909645,2025-03-22,16:16:17,266426206,https://www.inaturalist.org/observations/266426206,,,
