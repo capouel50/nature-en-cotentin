@@ -1,4 +1,4 @@
-ID,Nom,Description,Latitude,Longitude,Profondeur moyenne (m),Température moyenne (°C),Date de création,Dernière mise à jour
+ID,Nom,Description,Latitude,Longitude,ProfondeurMoyenne,TemperatureMoyenne,DateCreation,DerniereMiseAJour
 4,Basse du Fliart,,49.72563333333333,-1.893416666666667,,,,
 5,La Francaise,,49.72201666666667,-1.884216666666667,,,,
 6,La parmentière,,49.72065,-1.882666666666667,,,,
