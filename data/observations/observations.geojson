@@ -20,6 +20,8 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "research",
+        "depth": 5.49,
+        "temperature": 8.3,
         "observation_date": "2025-02-27",
         "observation_time": "16:47:14"
       }
@@ -43,6 +45,8 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "research",
+        "depth": 3.05,
+        "temperature": 8.3,
         "observation_date": "2025-01-21",
         "observation_time": "19:10:13"
       }
@@ -66,6 +70,8 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "",
+        "depth": 2.13,
+        "temperature": 10.6,
         "observation_date": "2025-03-22",
         "observation_time": "17:16:17"
       }
@@ -89,6 +95,8 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "",
+        "depth": 5.18,
+        "temperature": 10.6,
         "observation_date": "2025-03-22",
         "observation_time": "16:46:00"
       }
@@ -112,6 +120,8 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "",
+        "depth": 2.44,
+        "temperature": 8.9,
         "observation_date": "2025-03-19",
         "observation_time": "15:50:19"
       }
@@ -135,6 +145,8 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "",
+        "depth": 7.92,
+        "temperature": 8.9,
         "observation_date": "2025-03-19",
         "observation_time": "15:37:05"
       }
@@ -158,6 +170,8 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "",
+        "depth": 7.62,
+        "temperature": 8.9,
         "observation_date": "2025-03-19",
         "observation_time": "15:34:20"
       }
@@ -181,6 +195,8 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "",
+        "depth": 7.92,
+        "temperature": 8.9,
         "observation_date": "2025-03-19",
         "observation_time": "15:28:40"
       }
@@ -204,6 +220,8 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "",
+        "depth": 7.92,
+        "temperature": 8.9,
         "observation_date": "2025-03-19",
         "observation_time": "15:27:55"
       }
@@ -227,6 +245,8 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "",
+        "depth": 7.92,
+        "temperature": 8.9,
         "observation_date": "2025-03-19",
         "observation_time": "15:25:13"
       }
@@ -250,6 +270,8 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "",
+        "depth": 5.79,
+        "temperature": 8.9,
         "observation_date": "2025-01-22",
         "observation_time": "12:05:04"
       }
@@ -273,6 +295,8 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "",
+        "depth": 6.71,
+        "temperature": 8.9,
         "observation_date": "2025-01-17",
         "observation_time": "13:36:51"
       }
@@ -388,6 +412,8 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "",
+        "depth": 5.79,
+        "temperature": 11.1,
         "observation_date": "2024-12-28",
         "observation_time": "16:42:26"
       }
@@ -434,6 +460,8 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "",
+        "depth": 3.35,
+        "temperature": 10.6,
         "observation_date": "2024-12-13",
         "observation_time": "14:16:44"
       }
@@ -457,6 +485,8 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "",
+        "depth": 5.49,
+        "temperature": 13.9,
         "observation_date": "2024-11-29",
         "observation_time": "15:43:30"
       }
@@ -480,6 +510,8 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "",
+        "depth": 5.49,
+        "temperature": 13.9,
         "observation_date": "2024-11-29",
         "observation_time": "15:38:30"
       }
@@ -503,6 +535,8 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "",
+        "depth": 4.27,
+        "temperature": 13.9,
         "observation_date": "2024-11-29",
         "observation_time": "15:19:59"
       }
@@ -664,6 +698,8 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "",
+        "depth": 7.62,
+        "temperature": 15.6,
         "observation_date": "2024-11-01",
         "observation_time": "17:31:45"
       }
@@ -687,6 +723,8 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "",
+        "depth": 7.92,
+        "temperature": 8.9,
         "observation_date": "2025-03-19",
         "observation_time": "15:23:18"
       }
@@ -710,6 +748,8 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "",
+        "depth": 8.23,
+        "temperature": 8.9,
         "observation_date": "2025-03-19",
         "observation_time": "15:22:25"
       }
@@ -733,6 +773,8 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "",
+        "depth": 7.92,
+        "temperature": 8.9,
         "observation_date": "2025-03-19",
         "observation_time": "15:21:11"
       }
@@ -756,6 +798,8 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "",
+        "depth": 7.32,
+        "temperature": 8.9,
         "observation_date": "2025-03-19",
         "observation_time": "15:07:46"
       }
@@ -779,6 +823,8 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "",
+        "depth": 6.71,
+        "temperature": 8.9,
         "observation_date": "2025-03-19",
         "observation_time": "15:04:33"
       }
@@ -802,6 +848,8 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "",
+        "depth": 6.1,
+        "temperature": 8.9,
         "observation_date": "2025-03-19",
         "observation_time": "14:59:44"
       }
@@ -825,6 +873,8 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "",
+        "depth": 6.4,
+        "temperature": 12.2,
         "observation_date": "2024-12-03",
         "observation_time": "19:15:36"
       }
@@ -848,6 +898,8 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "",
+        "depth": 6.1,
+        "temperature": 8.9,
         "observation_date": "2025-03-19",
         "observation_time": "14:59:44"
       }
@@ -871,6 +923,8 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "",
+        "depth": 6.4,
+        "temperature": 8.3,
         "observation_date": "2025-03-05",
         "observation_time": "15:48:59"
       }
@@ -894,6 +948,8 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "",
+        "depth": 6.4,
+        "temperature": 8.3,
         "observation_date": "2025-03-05",
         "observation_time": "15:47:52"
       }
@@ -917,6 +973,8 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "",
+        "depth": 7.32,
+        "temperature": 8.3,
         "observation_date": "2025-03-05",
         "observation_time": "15:25:37"
       }
@@ -940,6 +998,8 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "",
+        "depth": 7.32,
+        "temperature": 8.3,
         "observation_date": "2025-03-05",
         "observation_time": "15:23:07"
       }
@@ -963,6 +1023,8 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "",
+        "depth": 2.74,
+        "temperature": 8.9,
         "observation_date": "2025-03-04",
         "observation_time": "19:20:03"
       }
@@ -986,6 +1048,8 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "",
+        "depth": 5.49,
+        "temperature": 8.3,
         "observation_date": "2025-02-27",
         "observation_time": "17:12:15"
       }
@@ -1009,6 +1073,8 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "",
+        "depth": 5.49,
+        "temperature": 8.3,
         "observation_date": "2025-02-27",
         "observation_time": "16:46:19"
       }
@@ -1032,6 +1098,8 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "",
+        "depth": 5.49,
+        "temperature": 8.3,
         "observation_date": "2025-02-27",
         "observation_time": "16:44:58"
       }
@@ -1147,6 +1215,8 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "",
+        "depth": 1.22,
+        "temperature": 8.3,
         "observation_date": "2025-01-21",
         "observation_time": "19:20:08"
       }
@@ -1170,6 +1240,8 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "",
+        "depth": 5.79,
+        "temperature": 11.1,
         "observation_date": "2024-12-17",
         "observation_time": "19:25:53"
       }
@@ -1193,6 +1265,8 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "",
+        "depth": 2.44,
+        "temperature": 11.1,
         "observation_date": "2024-12-17",
         "observation_time": "19:10:40"
       }
@@ -1262,6 +1336,8 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "",
+        "depth": 5.79,
+        "temperature": 12.2,
         "observation_date": "2024-12-03",
         "observation_time": "19:24:43"
       }
@@ -1285,6 +1361,8 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "",
+        "depth": 6.1,
+        "temperature": 12.2,
         "observation_date": "2024-12-03",
         "observation_time": "19:24:42"
       }
@@ -1308,6 +1386,8 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "",
+        "depth": 7.01,
+        "temperature": 12.2,
         "observation_date": "2024-12-03",
         "observation_time": "19:18:32"
       }
@@ -1331,6 +1411,8 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "",
+        "depth": 5.79,
+        "temperature": 12.2,
         "observation_date": "2024-12-03",
         "observation_time": "19:10:48"
       }
@@ -1354,6 +1436,8 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "",
+        "depth": 5.79,
+        "temperature": 12.2,
         "observation_date": "2024-12-03",
         "observation_time": "19:08:58"
       }
@@ -1377,6 +1461,8 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "",
+        "depth": 4.88,
+        "temperature": 12.2,
         "observation_date": "2024-12-03",
         "observation_time": "19:05:16"
       }
@@ -1423,6 +1509,8 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "",
+        "depth": 8.84,
+        "temperature": 15.6,
         "observation_date": "2024-11-01",
         "observation_time": "17:40:29"
       }
@@ -1446,6 +1534,8 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "",
+        "depth": 7.32,
+        "temperature": 15.6,
         "observation_date": "2024-11-01",
         "observation_time": "17:30:20"
       }
@@ -1469,6 +1559,8 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "",
+        "depth": 7.01,
+        "temperature": 15.6,
         "observation_date": "2024-11-01",
         "observation_time": "17:07:56"
       }
@@ -1492,6 +1584,8 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "",
+        "depth": 6.4,
+        "temperature": 15.6,
         "observation_date": "2024-11-01",
         "observation_time": "17:03:57"
       }
@@ -1515,6 +1609,8 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "",
+        "depth": 3.35,
+        "temperature": 15.6,
         "observation_date": "2024-11-01",
         "observation_time": "16:59:54"
       }
