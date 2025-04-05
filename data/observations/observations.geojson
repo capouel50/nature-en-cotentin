@@ -972,29 +972,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.9244997217,
-          49.7269997217
-        ]
-      },
-      "properties": {
-        "id": 121,
-        "site_id": null,
-        "scientific_name": "Actinia equina",
-        "common_name": "Atlantic Beadlet Anemone",
-        "inaturalist_id": "268101297",
-        "uri": "https://www.inaturalist.org/observations/268101297",
-        "development_stage": "",
-        "behavior": "",
-        "quality_grade": "",
-        "observation_date": "2025-04-01",
-        "observation_time": "15:18:58"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.910661,
           49.724082
         ]
@@ -1011,29 +988,6 @@
         "quality_grade": "",
         "observation_date": "2024-11-29",
         "observation_time": "14:08:02"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.9244997217,
-          49.7269997217
-        ]
-      },
-      "properties": {
-        "id": 122,
-        "site_id": null,
-        "scientific_name": "Ulva lactuca",
-        "common_name": "Broadleaf Sea Lettuce",
-        "inaturalist_id": "268100816",
-        "uri": "https://www.inaturalist.org/observations/268100816",
-        "development_stage": "",
-        "behavior": "",
-        "quality_grade": "",
-        "observation_date": "2025-04-01",
-        "observation_time": "15:18:19"
       }
     },
     {
@@ -1080,29 +1034,6 @@
         "quality_grade": "",
         "observation_date": "2025-02-16",
         "observation_time": "19:53:54"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.910661,
-          49.724082
-        ]
-      },
-      "properties": {
-        "id": 61,
-        "site_id": 16,
-        "scientific_name": "Sepia officinalis",
-        "common_name": "European Common Cuttlefish",
-        "inaturalist_id": "265399062",
-        "uri": "https://www.inaturalist.org/observations/265399062",
-        "development_stage": "",
-        "behavior": "",
-        "quality_grade": "",
-        "observation_date": "2025-03-05",
-        "observation_time": "14:47:52"
       }
     },
     {
@@ -1561,6 +1492,29 @@
         "quality_grade": "",
         "observation_date": "2024-11-01",
         "observation_time": "16:03:57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.910661,
+          49.724082
+        ]
+      },
+      "properties": {
+        "id": 61,
+        "site_id": 16,
+        "scientific_name": "Sepia officinalis",
+        "common_name": "European Common Cuttlefish",
+        "inaturalist_id": "265399062",
+        "uri": "https://www.inaturalist.org/observations/265399062",
+        "development_stage": "adulte",
+        "behavior": "repos",
+        "quality_grade": "",
+        "observation_date": "2025-03-05",
+        "observation_time": "14:47:52"
       }
     },
     {
