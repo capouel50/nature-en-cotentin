@@ -541,7 +541,7 @@
       },
       "properties": {
         "id": 113,
-        "site_id": null,
+        "site_id": 23,
         "scientific_name": "Necora puber",
         "common_name": "Velvet Swimming Crab",
         "inaturalist_id": "238304179",
@@ -564,7 +564,7 @@
       },
       "properties": {
         "id": 114,
-        "site_id": null,
+        "site_id": 23,
         "scientific_name": "Lipophrys pholis",
         "common_name": "Shanny",
         "inaturalist_id": "238301132",
@@ -978,7 +978,7 @@
       },
       "properties": {
         "id": 121,
-        "site_id": null,
+        "site_id": 19,
         "scientific_name": "Actinia equina",
         "common_name": "Atlantic Beadlet Anemone",
         "inaturalist_id": "268101297",
@@ -1024,7 +1024,7 @@
       },
       "properties": {
         "id": 122,
-        "site_id": null,
+        "site_id": 19,
         "scientific_name": "Ulva",
         "common_name": "Sea Lettuces",
         "inaturalist_id": "268100816",
@@ -1047,7 +1047,7 @@
       },
       "properties": {
         "id": 126,
-        "site_id": null,
+        "site_id": 23,
         "scientific_name": "Hymeniacidon perlevis",
         "common_name": "crumb-of-bread sponge",
         "inaturalist_id": "268997493",
@@ -1070,7 +1070,7 @@
       },
       "properties": {
         "id": 127,
-        "site_id": null,
+        "site_id": 23,
         "scientific_name": "Anemonia viridis",
         "common_name": "snakelocks anemone",
         "inaturalist_id": "268975961",
@@ -1093,7 +1093,7 @@
       },
       "properties": {
         "id": 128,
-        "site_id": null,
+        "site_id": 23,
         "scientific_name": "Anemonia sulcata",
         "common_name": "snakelocks anemone",
         "inaturalist_id": "268975713",
@@ -1116,7 +1116,7 @@
       },
       "properties": {
         "id": 129,
-        "site_id": null,
+        "site_id": 23,
         "scientific_name": "Perforatus perforatus",
         "common_name": "Volcano Barnacle",
         "inaturalist_id": "268974440",
@@ -1139,7 +1139,7 @@
       },
       "properties": {
         "id": 130,
-        "site_id": null,
+        "site_id": 23,
         "scientific_name": "Phyllodoce maculata",
         "common_name": "",
         "inaturalist_id": "268973277",
@@ -1162,7 +1162,7 @@
       },
       "properties": {
         "id": 131,
-        "site_id": null,
+        "site_id": 23,
         "scientific_name": "Labrus bergylta",
         "common_name": "Ballan Wrasse",
         "inaturalist_id": "268973018",
@@ -1172,52 +1172,6 @@
         "quality_grade": "needs_id",
         "observation_date": "2025-04-06",
         "observation_time": "14:23:36"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.862179935,
-          49.5115800534
-        ]
-      },
-      "properties": {
-        "id": 132,
-        "site_id": null,
-        "scientific_name": "Actinia fragacea",
-        "common_name": "Strawberry Anemone",
-        "inaturalist_id": "268972340",
-        "uri": "https://www.inaturalist.org/observations/268972340",
-        "development_stage": "",
-        "behavior": "",
-        "quality_grade": "research",
-        "observation_date": "2025-04-06",
-        "observation_time": "14:30:24"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.86849989,
-          49.7118999106
-        ]
-      },
-      "properties": {
-        "id": 125,
-        "site_id": null,
-        "scientific_name": "Hymeniacidon perlevis",
-        "common_name": "crumb-of-bread sponge",
-        "inaturalist_id": "268750444",
-        "uri": "https://www.inaturalist.org/observations/268750444",
-        "development_stage": "",
-        "behavior": "",
-        "quality_grade": "needs_id",
-        "observation_date": "2025-04-05",
-        "observation_time": "13:49:00"
       }
     },
     {
@@ -1264,6 +1218,75 @@
         "quality_grade": "",
         "observation_date": "2025-02-16",
         "observation_time": "19:53:54"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.910661,
+          49.724082
+        ]
+      },
+      "properties": {
+        "id": 62,
+        "site_id": 16,
+        "scientific_name": "Aplidium punctum",
+        "common_name": "",
+        "inaturalist_id": "265398627",
+        "uri": "https://www.inaturalist.org/observations/265398627",
+        "development_stage": "",
+        "behavior": "",
+        "quality_grade": "",
+        "observation_date": "2025-03-05",
+        "observation_time": "14:25:37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.862179935,
+          49.5115800534
+        ]
+      },
+      "properties": {
+        "id": 132,
+        "site_id": 23,
+        "scientific_name": "Actinia fragacea",
+        "common_name": "Strawberry Anemone",
+        "inaturalist_id": "268972340",
+        "uri": "https://www.inaturalist.org/observations/268972340",
+        "development_stage": "",
+        "behavior": "",
+        "quality_grade": "research",
+        "observation_date": "2025-04-06",
+        "observation_time": "14:30:24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.86849989,
+          49.7118999106
+        ]
+      },
+      "properties": {
+        "id": 125,
+        "site_id": 24,
+        "scientific_name": "Hymeniacidon perlevis",
+        "common_name": "crumb-of-bread sponge",
+        "inaturalist_id": "268750444",
+        "uri": "https://www.inaturalist.org/observations/268750444",
+        "development_stage": "",
+        "behavior": "",
+        "quality_grade": "needs_id",
+        "observation_date": "2025-04-05",
+        "observation_time": "13:49:00"
       }
     },
     {
@@ -1340,22 +1363,45 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.910661,
-          49.724082
+          -1.8334719166,
+          49.7084240477
         ]
       },
       "properties": {
-        "id": 62,
-        "site_id": 16,
-        "scientific_name": "Aplidium punctum",
-        "common_name": "",
-        "inaturalist_id": "265398627",
-        "uri": "https://www.inaturalist.org/observations/265398627",
+        "id": 102,
+        "site_id": 22,
+        "scientific_name": "Haliotis tuberculata",
+        "common_name": "Green Ormer",
+        "inaturalist_id": "250069813",
+        "uri": "https://www.inaturalist.org/observations/250069813",
         "development_stage": "",
         "behavior": "",
         "quality_grade": "",
-        "observation_date": "2025-03-05",
-        "observation_time": "14:25:37"
+        "observation_date": "2024-11-01",
+        "observation_time": "16:03:57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8334719166,
+          49.7084231804
+        ]
+      },
+      "properties": {
+        "id": 101,
+        "site_id": 22,
+        "scientific_name": "Halidrys siliquosa",
+        "common_name": "Sea-oak",
+        "inaturalist_id": "250054023",
+        "uri": "https://www.inaturalist.org/observations/250054023",
+        "development_stage": "",
+        "behavior": "",
+        "quality_grade": "",
+        "observation_date": "2024-11-01",
+        "observation_time": "16:07:56"
       }
     },
     {
@@ -1734,52 +1780,6 @@
         ]
       },
       "properties": {
-        "id": 102,
-        "site_id": 22,
-        "scientific_name": "Haliotis tuberculata",
-        "common_name": "Green Ormer",
-        "inaturalist_id": "250069813",
-        "uri": "https://www.inaturalist.org/observations/250069813",
-        "development_stage": "",
-        "behavior": "",
-        "quality_grade": "",
-        "observation_date": "2024-11-01",
-        "observation_time": "16:03:57"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.8334719166,
-          49.7084231804
-        ]
-      },
-      "properties": {
-        "id": 101,
-        "site_id": 22,
-        "scientific_name": "Halidrys siliquosa",
-        "common_name": "Sea-oak",
-        "inaturalist_id": "250054023",
-        "uri": "https://www.inaturalist.org/observations/250054023",
-        "development_stage": "",
-        "behavior": "",
-        "quality_grade": "",
-        "observation_date": "2024-11-01",
-        "observation_time": "16:07:56"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.8334719166,
-          49.7084240477
-        ]
-      },
-      "properties": {
         "id": 104,
         "site_id": 22,
         "scientific_name": "Anemonia sulcata",
@@ -1988,7 +1988,7 @@
       },
       "properties": {
         "id": 124,
-        "site_id": null,
+        "site_id": 23,
         "scientific_name": "Lipophrys pholis",
         "common_name": "Shanny",
         "inaturalist_id": "238491897",
@@ -2032,7 +2032,7 @@
       },
       "properties": {
         "id": 118,
-        "site_id": 7,
+        "site_id": 24,
         "scientific_name": "Palinurus elephas",
         "common_name": "European Spiny Lobster",
         "inaturalist_id": "235091981",
