@@ -1469,8 +1469,8 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "",
-        "observation_date": "2024-12-10",
-        "observation_time": "00:00:00"
+        "observation_date": "2024-12-09",
+        "observation_time": "23:00:00"
       }
     },
     {
@@ -1699,8 +1699,8 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "",
-        "observation_date": "2024-11-01",
-        "observation_time": "00:00:00"
+        "observation_date": "2024-10-31",
+        "observation_time": "23:00:00"
       }
     },
     {
@@ -1721,7 +1721,9 @@
         "uri": "https://www.inaturalist.org/observations/252809355",
         "development_stage": "",
         "behavior": "",
-        "quality_grade": ""
+        "quality_grade": "",
+        "observation_date": "2025-04-07",
+        "observation_time": "16:33:53"
       }
     },
     {
@@ -1995,7 +1997,9 @@
         "uri": "https://www.inaturalist.org/observations/238491897",
         "development_stage": "",
         "behavior": "",
-        "quality_grade": ""
+        "quality_grade": "",
+        "observation_date": "2025-04-07",
+        "observation_time": "16:33:54"
       }
     },
     {
@@ -2063,8 +2067,8 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "",
-        "observation_date": "2024-07-31",
-        "observation_time": "00:00:00"
+        "observation_date": "2024-07-30",
+        "observation_time": "22:00:00"
       }
     }
   ]
