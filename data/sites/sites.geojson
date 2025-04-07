@@ -323,6 +323,23 @@
         "average_depth": null,
         "average_temperature": null
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.86218,
+          49.51158
+        ]
+      },
+      "properties": {
+        "id": 23,
+        "name": "Havre Jouan",
+        "description": "",
+        "average_depth": null,
+        "average_temperature": null
+      }
     }
   ]
 }
