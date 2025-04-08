@@ -1708,29 +1708,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.017778568,
-          48.5957853439
-        ]
-      },
-      "properties": {
-        "id": 123,
-        "site_id": null,
-        "scientific_name": "Sepia officinalis",
-        "common_name": "European Common Cuttlefish",
-        "inaturalist_id": "252809355",
-        "uri": "https://www.inaturalist.org/observations/252809355",
-        "development_stage": "",
-        "behavior": "",
-        "quality_grade": "",
-        "observation_date": "2025-04-08",
-        "observation_time": "20:36:11"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.836731,
           49.705372
         ]
@@ -1977,29 +1954,6 @@
         "quality_grade": "",
         "observation_date": "2024-10-29",
         "observation_time": "18:55:54"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.849899441,
-          49.5646974218
-        ]
-      },
-      "properties": {
-        "id": 124,
-        "site_id": 23,
-        "scientific_name": "Lipophrys pholis",
-        "common_name": "Shanny",
-        "inaturalist_id": "238491897",
-        "uri": "https://www.inaturalist.org/observations/238491897",
-        "development_stage": "",
-        "behavior": "",
-        "quality_grade": "",
-        "observation_date": "2025-04-08",
-        "observation_time": "20:36:13"
       }
     },
     {
