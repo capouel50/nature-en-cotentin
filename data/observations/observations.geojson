@@ -1376,7 +1376,7 @@
         "uri": "https://www.inaturalist.org/observations/250069813",
         "development_stage": "",
         "behavior": "",
-        "quality_grade": "",
+        "quality_grade": "research",
         "observation_date": "2024-11-01",
         "observation_time": "16:03:57"
       }
@@ -1399,7 +1399,7 @@
         "uri": "https://www.inaturalist.org/observations/250054023",
         "development_stage": "",
         "behavior": "",
-        "quality_grade": "",
+        "quality_grade": "research",
         "observation_date": "2024-11-01",
         "observation_time": "16:07:56"
       }
@@ -1731,144 +1731,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.8334719166,
-          49.7084240477
-        ]
-      },
-      "properties": {
-        "id": 98,
-        "site_id": 22,
-        "scientific_name": "Maja brachydactyla",
-        "common_name": "Spiny Spider Crab",
-        "inaturalist_id": "250074556",
-        "uri": "https://www.inaturalist.org/observations/250074556",
-        "development_stage": "",
-        "behavior": "",
-        "quality_grade": "",
-        "observation_date": "2024-11-01",
-        "observation_time": "16:40:29"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.8334719166,
-          49.7084240477
-        ]
-      },
-      "properties": {
-        "id": 104,
-        "site_id": 22,
-        "scientific_name": "Anemonia sulcata",
-        "common_name": "snakelocks anemone",
-        "inaturalist_id": "250053344",
-        "uri": "https://www.inaturalist.org/observations/250053344",
-        "development_stage": "",
-        "behavior": "",
-        "quality_grade": "",
-        "observation_date": "2024-11-01",
-        "observation_time": "15:40:16"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.833472,
-          49.708425
-        ]
-      },
-      "properties": {
-        "id": 103,
-        "site_id": 22,
-        "scientific_name": "Aiptasia couchii",
-        "common_name": "Couch's Trumpet Anemone",
-        "inaturalist_id": "250037101",
-        "uri": "https://www.inaturalist.org/observations/250037101",
-        "development_stage": "",
-        "behavior": "",
-        "quality_grade": "",
-        "observation_date": "2024-11-01",
-        "observation_time": "15:59:54"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.8357900158,
-          49.7068102626
-        ]
-      },
-      "properties": {
-        "id": 106,
-        "site_id": 21,
-        "scientific_name": "Callionymus lyra",
-        "common_name": "Common Dragonet",
-        "inaturalist_id": "249688967",
-        "uri": "https://www.inaturalist.org/observations/249688967",
-        "development_stage": "",
-        "behavior": "",
-        "quality_grade": "",
-        "observation_date": "2024-10-29",
-        "observation_time": "18:55:54"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.8357900158,
-          49.7068102626
-        ]
-      },
-      "properties": {
-        "id": 107,
-        "site_id": 21,
-        "scientific_name": "Rhodophyta",
-        "common_name": "red algae",
-        "inaturalist_id": "249688705",
-        "uri": "https://www.inaturalist.org/observations/249688705",
-        "development_stage": "",
-        "behavior": "",
-        "quality_grade": "",
-        "observation_date": "2024-10-29",
-        "observation_time": "18:55:54"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.8357900158,
-          49.7068102626
-        ]
-      },
-      "properties": {
-        "id": 108,
-        "site_id": 21,
-        "scientific_name": "Labrus bergylta",
-        "common_name": "Ballan Wrasse",
-        "inaturalist_id": "249681607",
-        "uri": "https://www.inaturalist.org/observations/249681607",
-        "development_stage": "",
-        "behavior": "",
-        "quality_grade": "",
-        "observation_date": "2024-10-29",
-        "observation_time": "18:55:54"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.8357900158,
           49.7068102626
         ]
@@ -1882,7 +1744,7 @@
         "uri": "https://www.inaturalist.org/observations/249681457",
         "development_stage": "",
         "behavior": "",
-        "quality_grade": "",
+        "quality_grade": "research",
         "observation_date": "2024-10-29",
         "observation_time": "18:55:54"
       }
@@ -1905,7 +1767,7 @@
         "uri": "https://www.inaturalist.org/observations/249681293",
         "development_stage": "",
         "behavior": "",
-        "quality_grade": "",
+        "quality_grade": "research",
         "observation_date": "2024-10-29",
         "observation_time": "18:55:54"
       }
@@ -1951,7 +1813,145 @@
         "uri": "https://www.inaturalist.org/observations/249680989",
         "development_stage": "",
         "behavior": "",
+        "quality_grade": "research",
+        "observation_date": "2024-10-29",
+        "observation_time": "18:55:54"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8334719166,
+          49.7084240477
+        ]
+      },
+      "properties": {
+        "id": 98,
+        "site_id": 22,
+        "scientific_name": "Maja brachydactyla",
+        "common_name": "Spiny Spider Crab",
+        "inaturalist_id": "250074556",
+        "uri": "https://www.inaturalist.org/observations/250074556",
+        "development_stage": "",
+        "behavior": "",
+        "quality_grade": "research",
+        "observation_date": "2024-11-01",
+        "observation_time": "16:40:29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8334719166,
+          49.7084240477
+        ]
+      },
+      "properties": {
+        "id": 104,
+        "site_id": 22,
+        "scientific_name": "Anemonia sulcata",
+        "common_name": "snakelocks anemone",
+        "inaturalist_id": "250053344",
+        "uri": "https://www.inaturalist.org/observations/250053344",
+        "development_stage": "",
+        "behavior": "",
+        "quality_grade": "research",
+        "observation_date": "2024-11-01",
+        "observation_time": "15:40:16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.833472,
+          49.708425
+        ]
+      },
+      "properties": {
+        "id": 103,
+        "site_id": 22,
+        "scientific_name": "Aiptasia couchii",
+        "common_name": "Couch's Trumpet Anemone",
+        "inaturalist_id": "250037101",
+        "uri": "https://www.inaturalist.org/observations/250037101",
+        "development_stage": "",
+        "behavior": "",
         "quality_grade": "",
+        "observation_date": "2024-11-01",
+        "observation_time": "15:59:54"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8357900158,
+          49.7068102626
+        ]
+      },
+      "properties": {
+        "id": 106,
+        "site_id": 21,
+        "scientific_name": "Callionymus lyra",
+        "common_name": "Common Dragonet",
+        "inaturalist_id": "249688967",
+        "uri": "https://www.inaturalist.org/observations/249688967",
+        "development_stage": "",
+        "behavior": "",
+        "quality_grade": "research",
+        "observation_date": "2024-10-29",
+        "observation_time": "18:55:54"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8357900158,
+          49.7068102626
+        ]
+      },
+      "properties": {
+        "id": 107,
+        "site_id": 21,
+        "scientific_name": "Rhodophyta",
+        "common_name": "red algae",
+        "inaturalist_id": "249688705",
+        "uri": "https://www.inaturalist.org/observations/249688705",
+        "development_stage": "",
+        "behavior": "",
+        "quality_grade": "",
+        "observation_date": "2024-10-29",
+        "observation_time": "18:55:54"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8357900158,
+          49.7068102626
+        ]
+      },
+      "properties": {
+        "id": 108,
+        "site_id": 21,
+        "scientific_name": "Labrus bergylta",
+        "common_name": "Ballan Wrasse",
+        "inaturalist_id": "249681607",
+        "uri": "https://www.inaturalist.org/observations/249681607",
+        "development_stage": "",
+        "behavior": "",
+        "quality_grade": "research",
         "observation_date": "2024-10-29",
         "observation_time": "18:55:54"
       }
