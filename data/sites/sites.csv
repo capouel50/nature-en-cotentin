@@ -11,7 +11,6 @@ ID,Nom,Description,Latitude,Longitude,ProfondeurMoyenne,TemperatureMoyenne,DateC
 13,Les Tataquets,,49.71298333333333,-1.830066666666667,,,,
 14,Les Ilets,,49.69795,-1.824633333333333,,,,
 15,La Guibotière,,49.69856666666666,-1.81665,,,,
-16,Havre de Bombec : pointe de la Loge (roche infralittorale),,49.724082,-1.910661,,,,
 17,Havre de Bombec : pointe Nez Cabot (roche infralittorale),,49.722937,-1.908336,,,,
 18,Havre de Bombec : sable infralittoral,,49.723651,-1.909645,,,,
 19,Havre de Bombec : pointe de la Loge (roche intertidale),,49.722889,-1.912013,,,,
@@ -21,3 +20,4 @@ ID,Nom,Description,Latitude,Longitude,ProfondeurMoyenne,TemperatureMoyenne,DateC
 23,Havre Jouan,,49.51158,-1.86218,,,,
 24,Havre de plainvic (roches intertidales),,49.71919,-1.8685,,,,
 25,Havre de plainvic (roches intertidales),,49.71919,-1.8685,,,,
+16,Havre de Bombec : pointe de la Loge (roche infralittorale),,49.724082,-1.910661,,,,
