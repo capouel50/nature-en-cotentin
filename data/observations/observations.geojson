@@ -6,156 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.9083360583,
-          49.7229370313
-        ]
-      },
-      "properties": {
-        "id": 133,
-        "site_id": 17,
-        "scientific_name": "Phalacrocoracidae",
-        "common_name": "Cormorants and Shags",
-        "inaturalist_id": "270457630",
-        "uri": "https://www.inaturalist.org/observations/270457630",
-        "development_stage": "",
-        "behavior": "",
-        "quality_grade": "",
-        "depth": null,
-        "temperature": null,
-        "observation_date": "2025-04-14",
-        "observation_time": "12:53:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.9106608629,
-          49.7240818955
-        ]
-      },
-      "properties": {
-        "id": 135,
-        "site_id": 16,
-        "scientific_name": "Membranipora membranacea",
-        "common_name": "kelp lace bryozoan",
-        "inaturalist_id": "270455608",
-        "uri": "https://www.inaturalist.org/observations/270455608",
-        "development_stage": "adulte",
-        "behavior": "autre",
-        "quality_grade": "",
-        "depth": null,
-        "temperature": null,
-        "observation_date": "2025-04-14",
-        "observation_time": "12:32:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.9106608629,
-          49.7240818955
-        ]
-      },
-      "properties": {
-        "id": 134,
-        "site_id": 16,
-        "scientific_name": "Labrus bergylta",
-        "common_name": "Ballan Wrasse",
-        "inaturalist_id": "270455741",
-        "uri": "https://www.inaturalist.org/observations/270455741",
-        "development_stage": "",
-        "behavior": "",
-        "quality_grade": "",
-        "depth": null,
-        "temperature": null,
-        "observation_date": "2025-04-14",
-        "observation_time": "12:43:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.9106608629,
-          49.7240818955
-        ]
-      },
-      "properties": {
-        "id": 137,
-        "site_id": 16,
-        "scientific_name": "Aplysia punctata",
-        "common_name": "Spotted Seahare",
-        "inaturalist_id": "270447913",
-        "uri": "https://www.inaturalist.org/observations/270447913",
-        "development_stage": "",
-        "behavior": "",
-        "quality_grade": "",
-        "depth": null,
-        "temperature": null,
-        "observation_date": "2025-04-14",
-        "observation_time": "12:10:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.9106608629,
-          49.7240818955
-        ]
-      },
-      "properties": {
-        "id": 138,
-        "site_id": 16,
-        "scientific_name": "Anemonia sulcata",
-        "common_name": "snakelocks anemone",
-        "inaturalist_id": "270447718",
-        "uri": "https://www.inaturalist.org/observations/270447718",
-        "development_stage": "",
-        "behavior": "",
-        "quality_grade": "",
-        "depth": null,
-        "temperature": null,
-        "observation_date": "2025-04-14",
-        "observation_time": "12:03:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.9106608629,
-          49.7240818955
-        ]
-      },
-      "properties": {
-        "id": 139,
-        "site_id": 16,
-        "scientific_name": "Callionymus",
-        "common_name": "",
-        "inaturalist_id": "270447356",
-        "uri": "https://www.inaturalist.org/observations/270447356",
-        "development_stage": "",
-        "behavior": "",
-        "quality_grade": "",
-        "depth": null,
-        "temperature": null,
-        "observation_date": "2025-04-14",
-        "observation_time": "11:59:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.909645,
           49.723651
         ]
@@ -170,8 +20,8 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "research",
-        "depth": null,
-        "temperature": null,
+        "depth": 5.49,
+        "temperature": 8.3,
         "observation_date": "2025-02-27",
         "observation_time": "15:47:14"
       }
@@ -195,10 +45,160 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "research",
-        "depth": null,
-        "temperature": null,
+        "depth": 3.05,
+        "temperature": 8.3,
         "observation_date": "2025-01-21",
         "observation_time": "18:10:13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9083360583,
+          49.7229370313
+        ]
+      },
+      "properties": {
+        "id": 133,
+        "site_id": 17,
+        "scientific_name": "Phalacrocoracidae",
+        "common_name": "Cormorants and Shags",
+        "inaturalist_id": "270457630",
+        "uri": "https://www.inaturalist.org/observations/270457630",
+        "development_stage": "",
+        "behavior": "",
+        "quality_grade": "",
+        "depth": 5.18,
+        "temperature": 10.6,
+        "observation_date": "2025-04-14",
+        "observation_time": "12:53:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9106608629,
+          49.7240818955
+        ]
+      },
+      "properties": {
+        "id": 134,
+        "site_id": 16,
+        "scientific_name": "Labrus bergylta",
+        "common_name": "Ballan Wrasse",
+        "inaturalist_id": "270455741",
+        "uri": "https://www.inaturalist.org/observations/270455741",
+        "development_stage": "",
+        "behavior": "",
+        "quality_grade": "",
+        "depth": 5.49,
+        "temperature": 9.4,
+        "observation_date": "2025-04-14",
+        "observation_time": "12:43:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9106608629,
+          49.7240818955
+        ]
+      },
+      "properties": {
+        "id": 135,
+        "site_id": 16,
+        "scientific_name": "Membranipora membranacea",
+        "common_name": "kelp lace bryozoan",
+        "inaturalist_id": "270455608",
+        "uri": "https://www.inaturalist.org/observations/270455608",
+        "development_stage": "adulte",
+        "behavior": "autre",
+        "quality_grade": "",
+        "depth": 4.88,
+        "temperature": 9.4,
+        "observation_date": "2025-04-14",
+        "observation_time": "12:32:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9106608629,
+          49.7240818955
+        ]
+      },
+      "properties": {
+        "id": 137,
+        "site_id": 16,
+        "scientific_name": "Aplysia punctata",
+        "common_name": "Spotted Seahare",
+        "inaturalist_id": "270447913",
+        "uri": "https://www.inaturalist.org/observations/270447913",
+        "development_stage": "",
+        "behavior": "",
+        "quality_grade": "",
+        "depth": 6.4,
+        "temperature": 9.4,
+        "observation_date": "2025-04-14",
+        "observation_time": "12:10:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9106608629,
+          49.7240818955
+        ]
+      },
+      "properties": {
+        "id": 138,
+        "site_id": 16,
+        "scientific_name": "Anemonia sulcata",
+        "common_name": "snakelocks anemone",
+        "inaturalist_id": "270447718",
+        "uri": "https://www.inaturalist.org/observations/270447718",
+        "development_stage": "",
+        "behavior": "",
+        "quality_grade": "",
+        "depth": 5.18,
+        "temperature": 9.4,
+        "observation_date": "2025-04-14",
+        "observation_time": "12:03:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9106608629,
+          49.7240818955
+        ]
+      },
+      "properties": {
+        "id": 139,
+        "site_id": 16,
+        "scientific_name": "Callionymus",
+        "common_name": "",
+        "inaturalist_id": "270447356",
+        "uri": "https://www.inaturalist.org/observations/270447356",
+        "development_stage": "",
+        "behavior": "",
+        "quality_grade": "",
+        "depth": 6.1,
+        "temperature": 9.4,
+        "observation_date": "2025-04-14",
+        "observation_time": "11:59:00"
       }
     },
     {
@@ -220,8 +220,8 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "",
-        "depth": null,
-        "temperature": null,
+        "depth": 2.13,
+        "temperature": 8.9,
         "observation_date": "2025-03-22",
         "observation_time": "16:16:17"
       }
@@ -245,8 +245,8 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "research",
-        "depth": null,
-        "temperature": null,
+        "depth": 5.18,
+        "temperature": 8.9,
         "observation_date": "2025-03-22",
         "observation_time": "15:46:00"
       }
@@ -270,8 +270,8 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "research",
-        "depth": null,
-        "temperature": null,
+        "depth": 2.44,
+        "temperature": 8.3,
         "observation_date": "2025-03-19",
         "observation_time": "14:50:19"
       }
@@ -295,8 +295,8 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "",
-        "depth": null,
-        "temperature": null,
+        "depth": 7.92,
+        "temperature": 7.8,
         "observation_date": "2025-03-19",
         "observation_time": "14:37:05"
       }
@@ -320,35 +320,10 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "",
-        "depth": null,
-        "temperature": null,
+        "depth": 7.62,
+        "temperature": 7.8,
         "observation_date": "2025-03-19",
         "observation_time": "14:34:20"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.908336,
-          49.722937
-        ]
-      },
-      "properties": {
-        "id": 52,
-        "site_id": 17,
-        "scientific_name": "Aplidium punctum",
-        "common_name": "",
-        "inaturalist_id": "266021181",
-        "uri": "https://www.inaturalist.org/observations/266021181",
-        "development_stage": "",
-        "behavior": "",
-        "quality_grade": "",
-        "depth": null,
-        "temperature": null,
-        "observation_date": "2025-03-19",
-        "observation_time": "14:25:13"
       }
     },
     {
@@ -370,8 +345,8 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "",
-        "depth": null,
-        "temperature": null,
+        "depth": 7.92,
+        "temperature": 7.8,
         "observation_date": "2025-03-19",
         "observation_time": "14:28:40"
       }
@@ -395,10 +370,35 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "",
-        "depth": null,
-        "temperature": null,
+        "depth": 7.92,
+        "temperature": 7.8,
         "observation_date": "2025-03-19",
         "observation_time": "14:27:55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.908336,
+          49.722937
+        ]
+      },
+      "properties": {
+        "id": 52,
+        "site_id": 17,
+        "scientific_name": "Aplidium punctum",
+        "common_name": "",
+        "inaturalist_id": "266021181",
+        "uri": "https://www.inaturalist.org/observations/266021181",
+        "development_stage": "",
+        "behavior": "",
+        "quality_grade": "",
+        "depth": 7.92,
+        "temperature": 7.8,
+        "observation_date": "2025-03-19",
+        "observation_time": "14:25:13"
       }
     },
     {
@@ -420,8 +420,8 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "",
-        "depth": null,
-        "temperature": null,
+        "depth": 5.79,
+        "temperature": 8.9,
         "observation_date": "2025-01-22",
         "observation_time": "11:05:04"
       }
@@ -445,10 +445,60 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "",
-        "depth": null,
-        "temperature": null,
+        "depth": 6.71,
+        "temperature": 8.9,
         "observation_date": "2025-01-17",
         "observation_time": "12:36:51"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.912013,
+          49.722889
+        ]
+      },
+      "properties": {
+        "id": 79,
+        "site_id": 19,
+        "scientific_name": "Actinia equina",
+        "common_name": "Atlantic Beadlet Anemone",
+        "inaturalist_id": "257270828",
+        "uri": "https://www.inaturalist.org/observations/257270828",
+        "development_stage": "",
+        "behavior": "",
+        "quality_grade": "",
+        "depth": 5.79,
+        "temperature": 10.6,
+        "observation_date": "2024-12-28",
+        "observation_time": "15:42:26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.910661,
+          49.724082
+        ]
+      },
+      "properties": {
+        "id": 84,
+        "site_id": 16,
+        "scientific_name": "Griffithsieae",
+        "common_name": "",
+        "inaturalist_id": "255005835",
+        "uri": "https://www.inaturalist.org/observations/255005835",
+        "development_stage": "",
+        "behavior": "",
+        "quality_grade": "",
+        "depth": 3.35,
+        "temperature": 10.6,
+        "observation_date": "2024-12-13",
+        "observation_time": "13:16:44"
       }
     },
     {
@@ -556,49 +606,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.912013,
-          49.722889
-        ]
-      },
-      "properties": {
-        "id": 79,
-        "site_id": 19,
-        "scientific_name": "Actinia equina",
-        "common_name": "Atlantic Beadlet Anemone",
-        "inaturalist_id": "257270828",
-        "uri": "https://www.inaturalist.org/observations/257270828",
-        "development_stage": "",
-        "behavior": "",
-        "quality_grade": "",
-        "depth": null,
-        "temperature": null,
-        "observation_date": "2024-12-28",
-        "observation_time": "15:42:26"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.910661,
           49.724082
         ]
       },
       "properties": {
-        "id": 84,
+        "id": 93,
         "site_id": 16,
-        "scientific_name": "Griffithsieae",
-        "common_name": "",
-        "inaturalist_id": "255005835",
-        "uri": "https://www.inaturalist.org/observations/255005835",
+        "scientific_name": "Necora puber",
+        "common_name": "Velvet Swimming Crab",
+        "inaturalist_id": "253524150",
+        "uri": "https://www.inaturalist.org/observations/253524150",
         "development_stage": "",
         "behavior": "",
-        "quality_grade": "",
-        "depth": null,
-        "temperature": null,
-        "observation_date": "2024-12-13",
-        "observation_time": "13:16:44"
+        "quality_grade": "research",
+        "depth": 5.49,
+        "temperature": 11.7,
+        "observation_date": "2024-11-29",
+        "observation_time": "14:43:30"
       }
     },
     {
@@ -620,8 +645,8 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "research",
-        "depth": null,
-        "temperature": null,
+        "depth": 5.49,
+        "temperature": 11.7,
         "observation_date": "2024-11-29",
         "observation_time": "14:38:30"
       }
@@ -645,35 +670,10 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "research",
-        "depth": null,
-        "temperature": null,
+        "depth": 4.27,
+        "temperature": 11.7,
         "observation_date": "2024-11-29",
         "observation_time": "14:19:59"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.910661,
-          49.724082
-        ]
-      },
-      "properties": {
-        "id": 93,
-        "site_id": 16,
-        "scientific_name": "Necora puber",
-        "common_name": "Velvet Swimming Crab",
-        "inaturalist_id": "253524150",
-        "uri": "https://www.inaturalist.org/observations/253524150",
-        "development_stage": "",
-        "behavior": "",
-        "quality_grade": "research",
-        "depth": null,
-        "temperature": null,
-        "observation_date": "2024-11-29",
-        "observation_time": "14:43:30"
       }
     },
     {
@@ -845,85 +845,10 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "",
-        "depth": null,
-        "temperature": null,
+        "depth": 7.62,
+        "temperature": 14.4,
         "observation_date": "2024-11-01",
         "observation_time": "16:31:45"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.908336,
-          49.722937
-        ]
-      },
-      "properties": {
-        "id": 58,
-        "site_id": 17,
-        "scientific_name": "Aiptasia couchii",
-        "common_name": "Couch's Trumpet Anemone",
-        "inaturalist_id": "266027402",
-        "uri": "https://www.inaturalist.org/observations/266027402",
-        "development_stage": "",
-        "behavior": "",
-        "quality_grade": "",
-        "depth": null,
-        "temperature": null,
-        "observation_date": "2025-03-19",
-        "observation_time": "13:59:44"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.908336,
-          49.722937
-        ]
-      },
-      "properties": {
-        "id": 56,
-        "site_id": 17,
-        "scientific_name": "Pomatoschistus pictus",
-        "common_name": "Painted Goby",
-        "inaturalist_id": "266021685",
-        "uri": "https://www.inaturalist.org/observations/266021685",
-        "development_stage": "",
-        "behavior": "",
-        "quality_grade": "research",
-        "depth": null,
-        "temperature": null,
-        "observation_date": "2025-03-19",
-        "observation_time": "14:07:46"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.908336,
-          49.722937
-        ]
-      },
-      "properties": {
-        "id": 57,
-        "site_id": 17,
-        "scientific_name": "Phyllodoce maculata",
-        "common_name": "",
-        "inaturalist_id": "266020898",
-        "uri": "https://www.inaturalist.org/observations/266020898",
-        "development_stage": "",
-        "behavior": "",
-        "quality_grade": "",
-        "depth": null,
-        "temperature": null,
-        "observation_date": "2025-03-19",
-        "observation_time": "14:04:33"
       }
     },
     {
@@ -945,8 +870,8 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "research",
-        "depth": null,
-        "temperature": null,
+        "depth": 7.92,
+        "temperature": 7.8,
         "observation_date": "2025-03-19",
         "observation_time": "14:23:18"
       }
@@ -970,8 +895,8 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "",
-        "depth": null,
-        "temperature": null,
+        "depth": 8.23,
+        "temperature": 7.8,
         "observation_date": "2025-03-19",
         "observation_time": "14:22:25"
       }
@@ -995,10 +920,85 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "",
-        "depth": null,
-        "temperature": null,
+        "depth": 7.92,
+        "temperature": 7.8,
         "observation_date": "2025-03-19",
         "observation_time": "14:21:11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.908336,
+          49.722937
+        ]
+      },
+      "properties": {
+        "id": 56,
+        "site_id": 17,
+        "scientific_name": "Pomatoschistus pictus",
+        "common_name": "Painted Goby",
+        "inaturalist_id": "266021685",
+        "uri": "https://www.inaturalist.org/observations/266021685",
+        "development_stage": "",
+        "behavior": "",
+        "quality_grade": "research",
+        "depth": 7.32,
+        "temperature": 7.8,
+        "observation_date": "2025-03-19",
+        "observation_time": "14:07:46"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.908336,
+          49.722937
+        ]
+      },
+      "properties": {
+        "id": 57,
+        "site_id": 17,
+        "scientific_name": "Phyllodoce maculata",
+        "common_name": "",
+        "inaturalist_id": "266020898",
+        "uri": "https://www.inaturalist.org/observations/266020898",
+        "development_stage": "",
+        "behavior": "",
+        "quality_grade": "",
+        "depth": 6.71,
+        "temperature": 7.8,
+        "observation_date": "2025-03-19",
+        "observation_time": "14:04:33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.908336,
+          49.722937
+        ]
+      },
+      "properties": {
+        "id": 58,
+        "site_id": 17,
+        "scientific_name": "Aiptasia couchii",
+        "common_name": "Couch's Trumpet Anemone",
+        "inaturalist_id": "266027402",
+        "uri": "https://www.inaturalist.org/observations/266027402",
+        "development_stage": "",
+        "behavior": "",
+        "quality_grade": "",
+        "depth": 6.1,
+        "temperature": 7.8,
+        "observation_date": "2025-03-19",
+        "observation_time": "13:59:44"
       }
     },
     {
@@ -1020,8 +1020,8 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "research",
-        "depth": null,
-        "temperature": null,
+        "depth": 6.4,
+        "temperature": 12.2,
         "observation_date": "2024-12-03",
         "observation_time": "18:15:36"
       }
@@ -1045,8 +1045,8 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "",
-        "depth": null,
-        "temperature": null,
+        "depth": 6.1,
+        "temperature": 7.8,
         "observation_date": "2025-03-19",
         "observation_time": "13:59:44"
       }
@@ -1070,8 +1070,8 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "",
-        "depth": null,
-        "temperature": null,
+        "depth": 2.74,
+        "temperature": 7.8,
         "observation_date": "2025-03-04",
         "observation_time": "18:20:03"
       }
@@ -1095,35 +1095,10 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "",
-        "depth": null,
-        "temperature": null,
+        "depth": 5.49,
+        "temperature": 8.3,
         "observation_date": "2025-02-27",
         "observation_time": "16:12:15"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.909645,
-          49.723651
-        ]
-      },
-      "properties": {
-        "id": 60,
-        "site_id": 18,
-        "scientific_name": "Mesacmaea mitchelli",
-        "common_name": "Policeman anemone",
-        "inaturalist_id": "265695086",
-        "uri": "https://www.inaturalist.org/observations/265695086",
-        "development_stage": "",
-        "behavior": "",
-        "quality_grade": "",
-        "depth": null,
-        "temperature": null,
-        "observation_date": "2025-03-05",
-        "observation_time": "14:48:59"
       }
     },
     {
@@ -1270,8 +1245,8 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "needs_id",
-        "depth": null,
-        "temperature": null,
+        "depth": 4.57,
+        "temperature": 10.0,
         "observation_date": "2025-04-06",
         "observation_time": "15:38:00"
       }
@@ -1295,8 +1270,8 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "needs_id",
-        "depth": null,
-        "temperature": null,
+        "depth": 3.05,
+        "temperature": 10.0,
         "observation_date": "2025-04-06",
         "observation_time": "15:49:00"
       }
@@ -1320,8 +1295,8 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "needs_id",
-        "depth": null,
-        "temperature": null,
+        "depth": 3.66,
+        "temperature": 10.0,
         "observation_date": "2025-04-06",
         "observation_time": "15:33:00"
       }
@@ -1345,8 +1320,8 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "needs_id",
-        "depth": null,
-        "temperature": null,
+        "depth": 4.57,
+        "temperature": 10.0,
         "observation_date": "2025-04-06",
         "observation_time": "15:35:00"
       }
@@ -1370,8 +1345,8 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "needs_id",
-        "depth": null,
-        "temperature": null,
+        "depth": 3.96,
+        "temperature": 10.0,
         "observation_date": "2025-04-06",
         "observation_time": "15:31:00"
       }
@@ -1395,8 +1370,8 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "needs_id",
-        "depth": null,
-        "temperature": null,
+        "depth": 3.66,
+        "temperature": 10.6,
         "observation_date": "2025-04-06",
         "observation_time": "15:23:00"
       }
@@ -1470,8 +1445,8 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "",
-        "depth": null,
-        "temperature": null,
+        "depth": 7.32,
+        "temperature": 7.8,
         "observation_date": "2025-03-05",
         "observation_time": "14:25:37"
       }
@@ -1495,60 +1470,10 @@
         "development_stage": "adulte",
         "behavior": "repos",
         "quality_grade": "needs_id",
-        "depth": null,
-        "temperature": null,
+        "depth": 6.4,
+        "temperature": 7.8,
         "observation_date": "2025-03-05",
         "observation_time": "14:47:52"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.862179935,
-          49.5115800534
-        ]
-      },
-      "properties": {
-        "id": 132,
-        "site_id": 23,
-        "scientific_name": "Actinia fragacea",
-        "common_name": "Strawberry Anemone",
-        "inaturalist_id": "268972340",
-        "uri": "https://www.inaturalist.org/observations/268972340",
-        "development_stage": "",
-        "behavior": "",
-        "quality_grade": "research",
-        "depth": null,
-        "temperature": null,
-        "observation_date": "2025-04-06",
-        "observation_time": "15:30:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.86849989,
-          49.7118999106
-        ]
-      },
-      "properties": {
-        "id": 125,
-        "site_id": 24,
-        "scientific_name": "Hymeniacidon perlevis",
-        "common_name": "crumb-of-bread sponge",
-        "inaturalist_id": "268750444",
-        "uri": "https://www.inaturalist.org/observations/268750444",
-        "development_stage": "",
-        "behavior": "",
-        "quality_grade": "needs_id",
-        "depth": null,
-        "temperature": null,
-        "observation_date": "2025-04-05",
-        "observation_time": "14:30:00"
       }
     },
     {
@@ -1570,8 +1495,8 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "",
-        "depth": null,
-        "temperature": null,
+        "depth": 5.49,
+        "temperature": 8.3,
         "observation_date": "2025-02-27",
         "observation_time": "15:46:19"
       }
@@ -1595,35 +1520,10 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "research",
-        "depth": null,
-        "temperature": null,
+        "depth": 5.49,
+        "temperature": 8.3,
         "observation_date": "2025-02-27",
         "observation_time": "15:44:58"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.8334719166,
-          49.7084240477
-        ]
-      },
-      "properties": {
-        "id": 102,
-        "site_id": 22,
-        "scientific_name": "Haliotis tuberculata",
-        "common_name": "Green Ormer",
-        "inaturalist_id": "250069813",
-        "uri": "https://www.inaturalist.org/observations/250069813",
-        "development_stage": "",
-        "behavior": "",
-        "quality_grade": "research",
-        "depth": null,
-        "temperature": null,
-        "observation_date": "2024-11-01",
-        "observation_time": "16:03:57"
       }
     },
     {
@@ -1645,10 +1545,85 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "research",
-        "depth": null,
-        "temperature": null,
+        "depth": 7.01,
+        "temperature": 14.4,
         "observation_date": "2024-11-01",
         "observation_time": "16:07:56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8334719166,
+          49.7084240477
+        ]
+      },
+      "properties": {
+        "id": 102,
+        "site_id": 22,
+        "scientific_name": "Haliotis tuberculata",
+        "common_name": "Green Ormer",
+        "inaturalist_id": "250069813",
+        "uri": "https://www.inaturalist.org/observations/250069813",
+        "development_stage": "",
+        "behavior": "",
+        "quality_grade": "research",
+        "depth": 6.4,
+        "temperature": 14.4,
+        "observation_date": "2024-11-01",
+        "observation_time": "16:03:57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.86849989,
+          49.7118999106
+        ]
+      },
+      "properties": {
+        "id": 125,
+        "site_id": 24,
+        "scientific_name": "Hymeniacidon perlevis",
+        "common_name": "crumb-of-bread sponge",
+        "inaturalist_id": "268750444",
+        "uri": "https://www.inaturalist.org/observations/268750444",
+        "development_stage": "",
+        "behavior": "",
+        "quality_grade": "needs_id",
+        "depth": 1.83,
+        "temperature": 9.4,
+        "observation_date": "2025-04-05",
+        "observation_time": "14:30:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.862179935,
+          49.5115800534
+        ]
+      },
+      "properties": {
+        "id": 132,
+        "site_id": 23,
+        "scientific_name": "Actinia fragacea",
+        "common_name": "Strawberry Anemone",
+        "inaturalist_id": "268972340",
+        "uri": "https://www.inaturalist.org/observations/268972340",
+        "development_stage": "",
+        "behavior": "",
+        "quality_grade": "research",
+        "depth": 4.27,
+        "temperature": 10.0,
+        "observation_date": "2025-04-06",
+        "observation_time": "15:30:00"
       }
     },
     {
@@ -1670,8 +1645,8 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "research",
-        "depth": null,
-        "temperature": null,
+        "depth": 7.32,
+        "temperature": 7.8,
         "observation_date": "2025-03-05",
         "observation_time": "14:23:07"
       }
@@ -1695,8 +1670,8 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "research",
-        "depth": null,
-        "temperature": null,
+        "depth": 1.22,
+        "temperature": 8.3,
         "observation_date": "2025-01-21",
         "observation_time": "18:20:08"
       }
@@ -1745,8 +1720,8 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "",
-        "depth": null,
-        "temperature": null,
+        "depth": 5.79,
+        "temperature": 11.1,
         "observation_date": "2024-12-17",
         "observation_time": "18:25:53"
       }
@@ -1770,10 +1745,135 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "",
-        "depth": null,
-        "temperature": null,
+        "depth": 2.44,
+        "temperature": 10.6,
         "observation_date": "2024-12-17",
         "observation_time": "18:10:40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8357900158,
+          49.7068102626
+        ]
+      },
+      "properties": {
+        "id": 86,
+        "site_id": 21,
+        "scientific_name": "Aplysia punctata",
+        "common_name": "Spotted Seahare",
+        "inaturalist_id": "254027983",
+        "uri": "https://www.inaturalist.org/observations/254027983",
+        "development_stage": "",
+        "behavior": "",
+        "quality_grade": "research",
+        "depth": 5.79,
+        "temperature": 12.2,
+        "observation_date": "2024-12-03",
+        "observation_time": "18:24:43"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8357900158,
+          49.7068102626
+        ]
+      },
+      "properties": {
+        "id": 87,
+        "site_id": 21,
+        "scientific_name": "Dictyota dichotoma",
+        "common_name": "Forked ribbons",
+        "inaturalist_id": "254096770",
+        "uri": "https://www.inaturalist.org/observations/254096770",
+        "development_stage": "",
+        "behavior": "",
+        "quality_grade": "",
+        "depth": 6.1,
+        "temperature": 12.2,
+        "observation_date": "2024-12-03",
+        "observation_time": "18:24:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8357900158,
+          49.7068102626
+        ]
+      },
+      "properties": {
+        "id": 88,
+        "site_id": 21,
+        "scientific_name": "Buglossidium luteum",
+        "common_name": "Solenette",
+        "inaturalist_id": "254029063",
+        "uri": "https://www.inaturalist.org/observations/254029063",
+        "development_stage": "",
+        "behavior": "",
+        "quality_grade": "research",
+        "depth": 7.01,
+        "temperature": 11.7,
+        "observation_date": "2024-12-03",
+        "observation_time": "18:18:32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8357900158,
+          49.7068102626
+        ]
+      },
+      "properties": {
+        "id": 90,
+        "site_id": 21,
+        "scientific_name": "Conger conger",
+        "common_name": "European Conger",
+        "inaturalist_id": "254029122",
+        "uri": "https://www.inaturalist.org/observations/254029122",
+        "development_stage": "",
+        "behavior": "",
+        "quality_grade": "research",
+        "depth": 5.79,
+        "temperature": 12.2,
+        "observation_date": "2024-12-03",
+        "observation_time": "18:10:48"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8357900158,
+          49.7068102626
+        ]
+      },
+      "properties": {
+        "id": 91,
+        "site_id": 21,
+        "scientific_name": "Aplysia punctata",
+        "common_name": "Spotted Seahare",
+        "inaturalist_id": "254028597",
+        "uri": "https://www.inaturalist.org/observations/254028597",
+        "development_stage": "",
+        "behavior": "",
+        "quality_grade": "research",
+        "depth": 5.79,
+        "temperature": 12.2,
+        "observation_date": "2024-12-03",
+        "observation_time": "18:08:58"
       }
     },
     {
@@ -1811,31 +1911,6 @@
         ]
       },
       "properties": {
-        "id": 87,
-        "site_id": 21,
-        "scientific_name": "Dictyota dichotoma",
-        "common_name": "Forked ribbons",
-        "inaturalist_id": "254096770",
-        "uri": "https://www.inaturalist.org/observations/254096770",
-        "development_stage": "",
-        "behavior": "",
-        "quality_grade": "",
-        "depth": null,
-        "temperature": null,
-        "observation_date": "2024-12-03",
-        "observation_time": "18:24:42"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.8357900158,
-          49.7068102626
-        ]
-      },
-      "properties": {
         "id": 92,
         "site_id": 21,
         "scientific_name": "Marthasterias glacialis",
@@ -1845,8 +1920,8 @@
         "development_stage": "",
         "behavior": "",
         "quality_grade": "research",
-        "depth": null,
-        "temperature": null,
+        "depth": 4.88,
+        "temperature": 12.2,
         "observation_date": "2024-12-03",
         "observation_time": "18:05:16"
       }
@@ -1856,99 +1931,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.8357900158,
-          49.7068102626
+          -1.836731,
+          49.705372
         ]
       },
       "properties": {
-        "id": 90,
+        "id": 100,
         "site_id": 21,
-        "scientific_name": "Conger conger",
-        "common_name": "European Conger",
-        "inaturalist_id": "254029122",
-        "uri": "https://www.inaturalist.org/observations/254029122",
+        "scientific_name": "Rhodymeniophycidae",
+        "common_name": "",
+        "inaturalist_id": "250074840",
+        "uri": "https://www.inaturalist.org/observations/250074840",
         "development_stage": "",
         "behavior": "",
-        "quality_grade": "research",
-        "depth": null,
-        "temperature": null,
-        "observation_date": "2024-12-03",
-        "observation_time": "18:10:48"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.8357900158,
-          49.7068102626
-        ]
-      },
-      "properties": {
-        "id": 88,
-        "site_id": 21,
-        "scientific_name": "Buglossidium luteum",
-        "common_name": "Solenette",
-        "inaturalist_id": "254029063",
-        "uri": "https://www.inaturalist.org/observations/254029063",
-        "development_stage": "",
-        "behavior": "",
-        "quality_grade": "research",
-        "depth": null,
-        "temperature": null,
-        "observation_date": "2024-12-03",
-        "observation_time": "18:18:32"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.8357900158,
-          49.7068102626
-        ]
-      },
-      "properties": {
-        "id": 91,
-        "site_id": 21,
-        "scientific_name": "Aplysia punctata",
-        "common_name": "Spotted Seahare",
-        "inaturalist_id": "254028597",
-        "uri": "https://www.inaturalist.org/observations/254028597",
-        "development_stage": "",
-        "behavior": "",
-        "quality_grade": "research",
-        "depth": null,
-        "temperature": null,
-        "observation_date": "2024-12-03",
-        "observation_time": "18:08:58"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.8357900158,
-          49.7068102626
-        ]
-      },
-      "properties": {
-        "id": 86,
-        "site_id": 21,
-        "scientific_name": "Aplysia punctata",
-        "common_name": "Spotted Seahare",
-        "inaturalist_id": "254027983",
-        "uri": "https://www.inaturalist.org/observations/254027983",
-        "development_stage": "",
-        "behavior": "",
-        "quality_grade": "research",
-        "depth": null,
-        "temperature": null,
-        "observation_date": "2024-12-03",
-        "observation_time": "18:24:43"
+        "quality_grade": "",
+        "depth": 7.32,
+        "temperature": 14.4,
+        "observation_date": "2024-11-01",
+        "observation_time": "16:30:20"
       }
     },
     {
@@ -1981,56 +1981,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.836731,
-          49.705372
-        ]
-      },
-      "properties": {
-        "id": 100,
-        "site_id": 21,
-        "scientific_name": "Rhodymeniophycidae",
-        "common_name": "",
-        "inaturalist_id": "250074840",
-        "uri": "https://www.inaturalist.org/observations/250074840",
-        "development_stage": "",
-        "behavior": "",
-        "quality_grade": "",
-        "depth": null,
-        "temperature": null,
-        "observation_date": "2024-11-01",
-        "observation_time": "16:30:20"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.8334719166,
-          49.7084240477
-        ]
-      },
-      "properties": {
-        "id": 98,
-        "site_id": 22,
-        "scientific_name": "Maja brachydactyla",
-        "common_name": "Spiny Spider Crab",
-        "inaturalist_id": "250074556",
-        "uri": "https://www.inaturalist.org/observations/250074556",
-        "development_stage": "",
-        "behavior": "",
-        "quality_grade": "research",
-        "depth": null,
-        "temperature": null,
-        "observation_date": "2024-11-01",
-        "observation_time": "16:40:29"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.8334719166,
           49.7084240477
         ]
@@ -2056,31 +2006,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.833472,
-          49.708425
-        ]
-      },
-      "properties": {
-        "id": 103,
-        "site_id": 22,
-        "scientific_name": "Aiptasia couchii",
-        "common_name": "Couch's Trumpet Anemone",
-        "inaturalist_id": "250037101",
-        "uri": "https://www.inaturalist.org/observations/250037101",
-        "development_stage": "",
-        "behavior": "",
-        "quality_grade": "",
-        "depth": null,
-        "temperature": null,
-        "observation_date": "2024-11-01",
-        "observation_time": "15:59:54"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.8357900158,
           49.7068102626
         ]
@@ -2099,6 +2024,56 @@
         "temperature": null,
         "observation_date": "2024-10-29",
         "observation_time": "18:55:54"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8334719166,
+          49.7084240477
+        ]
+      },
+      "properties": {
+        "id": 98,
+        "site_id": 22,
+        "scientific_name": "Maja brachydactyla",
+        "common_name": "Spiny Spider Crab",
+        "inaturalist_id": "250074556",
+        "uri": "https://www.inaturalist.org/observations/250074556",
+        "development_stage": "",
+        "behavior": "",
+        "quality_grade": "research",
+        "depth": 8.84,
+        "temperature": 14.4,
+        "observation_date": "2024-11-01",
+        "observation_time": "16:40:29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.833472,
+          49.708425
+        ]
+      },
+      "properties": {
+        "id": 103,
+        "site_id": 22,
+        "scientific_name": "Aiptasia couchii",
+        "common_name": "Couch's Trumpet Anemone",
+        "inaturalist_id": "250037101",
+        "uri": "https://www.inaturalist.org/observations/250037101",
+        "development_stage": "",
+        "behavior": "",
+        "quality_grade": "",
+        "depth": 3.35,
+        "temperature": 14.4,
+        "observation_date": "2024-11-01",
+        "observation_time": "15:59:54"
       }
     },
     {
