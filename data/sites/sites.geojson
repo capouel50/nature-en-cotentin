@@ -210,23 +210,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.910661,
-          49.724082
-        ]
-      },
-      "properties": {
-        "id": 16,
-        "name": "Havre de Bombec : pointe de la Loge (roche infralittorale)",
-        "description": "",
-        "average_depth": null,
-        "average_temperature": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.908336,
           49.722937
         ]
@@ -370,6 +353,23 @@
       "properties": {
         "id": 25,
         "name": "Havre de plainvic (roches intertidales)",
+        "description": "",
+        "average_depth": null,
+        "average_temperature": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.910661,
+          49.724082
+        ]
+      },
+      "properties": {
+        "id": 16,
+        "name": "Havre de Bombec : pointe de la Loge (roche infralittorale)",
         "description": "",
         "average_depth": null,
         "average_temperature": null
