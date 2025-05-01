@@ -57,23 +57,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.880466666666667,
-          49.7217
-        ]
-      },
-      "properties": {
-        "id": 7,
-        "name": "Erte",
-        "description": "",
-        "average_depth": null,
-        "average_temperature": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.88325,
           49.72433333333333
         ]
@@ -353,6 +336,23 @@
       "properties": {
         "id": 16,
         "name": "Havre de Bombec : pointe de la Loge (roche infralittorale)",
+        "description": "",
+        "average_depth": null,
+        "average_temperature": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8805,
+          49.7217
+        ]
+      },
+      "properties": {
+        "id": 7,
+        "name": "Erte",
         "description": "",
         "average_depth": null,
         "average_temperature": null
