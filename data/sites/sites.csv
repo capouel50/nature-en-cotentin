@@ -2,7 +2,6 @@ ID,Nom,Description,Latitude,Longitude,ProfondeurMoyenne,TemperatureMoyenne,DateC
 4,Basse du Fliart,,49.72563333333333,-1.893416666666667,,,,
 5,La Francaise,,49.72201666666667,-1.884216666666667,,,,
 6,La parmentière,,49.72065,-1.882666666666667,,,,
-7,Erte,,49.7217,-1.880466666666667,,,,
 8,La Galine,,49.72433333333333,-1.88325,,,,
 9,La basse Brefort,,49.72673333333334,-1.852633333333333,,,,
 10,Le Mermistin,,49.70276666666667,-1.77035,,,,
@@ -20,3 +19,4 @@ ID,Nom,Description,Latitude,Longitude,ProfondeurMoyenne,TemperatureMoyenne,DateC
 23,Havre Jouan,,49.51158,-1.86218,,,,
 24,Havre de plainvic (roches intertidales),,49.71919,-1.8685,,,,
 16,Havre de Bombec : pointe de la Loge (roche infralittorale),,49.724082,-1.910661,,,,
+7,Erte,,49.7217,-1.8805,,,,
