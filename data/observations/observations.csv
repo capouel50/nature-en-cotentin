@@ -3,8 +3,8 @@ ID,SiteID,NomScientifique,NomCommun,Latitude,Longitude,DateObservation,HeureObse
 133,17,Phalacrocoracidae,Cormorants and Shags,49.7229370313,-1.9083360583,2025-04-14,12:53:00,270457630,https://www.inaturalist.org/observations/270457630,,,,5.18,10.6
 134,16,Labrus bergylta,Ballan Wrasse,49.7240818955,-1.9106608629,2025-04-14,12:43:00,270455741,https://www.inaturalist.org/observations/270455741,,,,5.49,9.4
 135,16,Membranipora membranacea,kelp lace bryozoan,49.7240818955,-1.9106608629,2025-04-14,12:32:00,270455608,https://www.inaturalist.org/observations/270455608,adulte,autre,,4.88,9.4
+137,16,,,,,,,270447913,https://www.inaturalist.org/observations/270447913,,,research,6.4,9.4
 136,16,Maja brachydactyla,Spiny Spider Crab,49.7240818955,-1.9106608629,2025-04-14,12:15:00,270448179,https://www.inaturalist.org/observations/270448179,,,research,None,None
-137,16,Aplysia punctata,Spotted Seahare,49.7240818955,-1.9106608629,2025-04-14,12:10:00,270447913,https://www.inaturalist.org/observations/270447913,,,,6.4,9.4
 138,16,Anemonia sulcata,snakelocks anemone,49.7240818955,-1.9106608629,2025-04-14,12:03:00,270447718,https://www.inaturalist.org/observations/270447718,,,,5.18,9.4
 139,16,Callionymus,,49.7240818955,-1.9106608629,2025-04-14,11:59:00,270447356,https://www.inaturalist.org/observations/270447356,,,,6.1,9.4
 140,16,Phyllodoce maculata,,49.7240818955,-1.9106608629,2025-04-14,11:59:00,270447094,https://www.inaturalist.org/observations/270447094,,,needs_id,None,None
@@ -44,7 +44,7 @@ ID,SiteID,NomScientifique,NomCommun,Latitude,Longitude,DateObservation,HeureObse
 54,17,Sabella spallanzanii,Mediterranean Fanworm,49.722937,-1.908336,2025-03-19,14:22:25,265998009,https://www.inaturalist.org/observations/265998009,,,,8.23,7.8
 55,17,Trivia arctica,Northern cowrie,49.722937,-1.908336,2025-03-19,14:21:11,265997638,https://www.inaturalist.org/observations/265997638,,,,7.92,7.8
 89,21,Andresia partenopea,,49.7068102626,-1.8357900158,2024-12-03,18:15:36,254028788,https://www.inaturalist.org/observations/254028788,,,research,6.4,12.2
-59,17,Tritia reticulata,Netted Dogwhelk,49.722937,-1.908336,2025-03-19,13:59:44,265997842,https://www.inaturalist.org/observations/265997842,,,,6.1,7.8
+59,17,,,,,,,265997842,https://www.inaturalist.org/observations/265997842,,,research,6.1,7.8
 64,21,Phyllodoce maculata,,49.7068102626,-1.8357900158,2025-03-04,18:20:03,265697244,https://www.inaturalist.org/observations/265697244,,,,2.74,7.8
 65,16,Phyllodoce maculata,,49.724082,-1.910661,2025-02-27,16:12:15,265697168,https://www.inaturalist.org/observations/265697168,,,,5.49,8.3
 60,18,Haloclavidae,,49.723651,-1.909645,2025-03-05,14:48:59,265695086,https://www.inaturalist.org/observations/265695086,,,needs_id,6.4,7.2
@@ -53,8 +53,8 @@ ID,SiteID,NomScientifique,NomCommun,Latitude,Longitude,DateObservation,HeureObse
 121,19,Actinia equina,Atlantic Beadlet Anemone,49.7269997217,-1.9244997217,2025-04-01,15:18:58,268101297,https://www.inaturalist.org/observations/268101297,,,research,None,None
 96,16,Anemonia,,49.724082,-1.910661,2024-11-29,14:08:02,253524129,https://www.inaturalist.org/observations/253524129,,,,None,None
 122,19,Ulva,Sea Lettuces,49.7269997217,-1.9244997217,2025-04-01,15:18:19,268100816,https://www.inaturalist.org/observations/268100816,,,needs_id,None,None
+127,23,,,,,,,268975961,https://www.inaturalist.org/observations/268975961,,,research,3.05,10.0
 126,23,Hymeniacidon perlevis,crumb-of-bread sponge,49.5115800534,-1.862179935,2025-04-06,15:38:00,268997493,https://www.inaturalist.org/observations/268997493,,,needs_id,4.57,10.0
-127,23,Anemonia viridis,snakelocks anemone,49.5115800534,-1.862179935,2025-04-06,15:49:00,268975961,https://www.inaturalist.org/observations/268975961,,,needs_id,3.05,10.0
 128,23,Anemonia sulcata,snakelocks anemone,49.5115800534,-1.862179935,2025-04-06,15:33:00,268975713,https://www.inaturalist.org/observations/268975713,,,needs_id,3.66,10.0
 129,23,Perforatus perforatus,Volcano Barnacle,49.5115800534,-1.862179935,2025-04-06,15:35:00,268974440,https://www.inaturalist.org/observations/268974440,,,needs_id,4.57,10.0
 130,23,Phyllodoce maculata,,49.5115800534,-1.862179935,2025-04-06,15:31:00,268973277,https://www.inaturalist.org/observations/268973277,,,needs_id,3.96,10.0
