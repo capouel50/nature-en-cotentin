@@ -136,31 +136,6 @@
         ]
       },
       "properties": {
-        "id": 137,
-        "site_id": 16,
-        "scientific_name": "Aplysia punctata",
-        "common_name": "Spotted Seahare",
-        "inaturalist_id": "270447913",
-        "uri": "https://www.inaturalist.org/observations/270447913",
-        "development_stage": "",
-        "behavior": "",
-        "quality_grade": "",
-        "depth": 6.4,
-        "temperature": 9.4,
-        "observation_date": "2025-04-14",
-        "observation_time": "12:10:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.9106608629,
-          49.7240818955
-        ]
-      },
-      "properties": {
         "id": 138,
         "site_id": 16,
         "scientific_name": "Anemonia sulcata",
@@ -1131,31 +1106,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.908336,
-          49.722937
-        ]
-      },
-      "properties": {
-        "id": 59,
-        "site_id": 17,
-        "scientific_name": "Tritia reticulata",
-        "common_name": "Netted Dogwhelk",
-        "inaturalist_id": "265997842",
-        "uri": "https://www.inaturalist.org/observations/265997842",
-        "development_stage": "",
-        "behavior": "",
-        "quality_grade": "",
-        "depth": 6.1,
-        "temperature": 7.8,
-        "observation_date": "2025-03-19",
-        "observation_time": "13:59:44"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.8357900158,
           49.7068102626
         ]
@@ -1374,31 +1324,6 @@
         "temperature": 10.0,
         "observation_date": "2025-04-06",
         "observation_time": "15:38:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.862179935,
-          49.5115800534
-        ]
-      },
-      "properties": {
-        "id": 127,
-        "site_id": 23,
-        "scientific_name": "Anemonia viridis",
-        "common_name": "snakelocks anemone",
-        "inaturalist_id": "268975961",
-        "uri": "https://www.inaturalist.org/observations/268975961",
-        "development_stage": "",
-        "behavior": "",
-        "quality_grade": "needs_id",
-        "depth": 3.05,
-        "temperature": 10.0,
-        "observation_date": "2025-04-06",
-        "observation_time": "15:49:00"
       }
     },
     {
