@@ -374,6 +374,23 @@
         "average_depth": null,
         "average_temperature": null
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.895451,
+          49.712241
+        ]
+      },
+      "properties": {
+        "id": 27,
+        "name": "Port racine",
+        "description": "",
+        "average_depth": null,
+        "average_temperature": null
+      }
     }
   ]
 }
